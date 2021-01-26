@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "JIAQI GU"
+title                    : "CHENGHAO FENG"
 title_separator          : "-"
-name                     : &name "Jiaqi Gu"
+name                     : &name "Chenghao Feng"
 description              : &description "PhD Student at The University of Texas at Austin"
-url                      : https://jeremiemelo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://chenghaofeng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jeremiemelo.github.io"
+repository               : "chenghaofeng.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jiaqi Gu"
+  name             : "Chenghao Feng"
   avatar           : "profile-crop.jpg"
   bio              : "PhD Student at <a href='https://www.cerc.utexas.edu/utda/'>UTDA, the University of Texas at Austin</a>"
   location         : "Austin, Texas"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=FeIV12MAAAAJ&hl=en&authuser=1"
-  email            : "jqgu@utexas.edu"
-  researchgate     : "https://www.researchgate.net/profile/Jiaqi_Gu12"
+  googlescholar    : "https://scholar.google.com/citations?user=Yc5UqAYAAAAJ&hl=en&authuser=1"
+  email            : "fengchenghao1996@utexas.edu"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "JeremieMelo"
+  github           : "chenghaofeng"
   google_plus      :
   keybase          :
   instagram        :
