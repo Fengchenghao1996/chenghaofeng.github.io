@@ -43,12 +43,10 @@ Skills
 
 Awards and Honors
 ------
-* Young Student Fellow, 57th IEEE/ACM Design Automation Conference (DAC)
-* Best Paper Award, 25th ACM/IEEE Asian and South Pacific Design Automation Conference (ASP-DAC)
-* 4th Place, 2019 DAC System Design Contest on Low Power Object Detection
-* First Prize Scholarship, Fudan University
-* Top 11%, 2017 IEEEXtreme Global Programming Competition (out of 3,350 teams worldwide)
-* 2nd & 3rd Prize, National Mathematical Contest in Modeling
+* Provost’s International Graduate Excellence Fellowship. UT Austin, 2018-2021
+* Zheng Gang Scholarship. Nanjing University, 2017
+* Dalian Institute of Chemical Physics, Chinese Academy of Sciences’ Scholarship. 2016
+* Top-notch Program Scholarship. Nanjing University, 2015 - 2017
 
 
 Related Courses
