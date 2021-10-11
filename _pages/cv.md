@@ -9,19 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF format EN](/files/Resume_Jiaqi Gu_v6.pdf){: .btn}
+[PDF format EN](/files/Resume_CFeng.pdf){: .btn}
 
-## JIAQI GU
+## Chenghao Feng
 {: .text-center}
 Ph.D. Student,  Department of Electrical and Computer Engineering
 {: .text-center}
-University of Texas at Austin,  Austin, TX 78712
+University of Texas at Austin,  Austin, TX 78758
 {: .text-center}
 
 Education
 ------
 * Ph.D. in University of Texas at Austin, Texas, US, 2023 (expected)
-* B.E. in Fudan University, Shanghai, China, 2018
+* B.S. in Nanjing University, Nanjing, China, 2018
 
 
 Work experience
@@ -32,12 +32,13 @@ Work experience
 
 Skills
 ------
-* Programming languages
+* Programming languages and software
   * Python
-  * PyTorch \& Tensorflow
-  * C/C++
-  * CUDA
-  * Verilog \& Chisel
+  * Matlab
+  * C
+  * Lumerical solutions
+  * Cadence Virtuoso
+  * Synopsys Optodesigner 
 
 
 Awards and Honors
@@ -52,18 +53,25 @@ Awards and Honors
 
 Related Courses
 ------
+* EE383V-1: Nanophotonics
+  * Dr. Zheng Wang
+* EE383P-8: Optical Communications 
+  * Dr. Ray T. Chen
+* EE396K-21: Nanoscale Device Phys/Tech
+  * Dr. Jack Lee
+* EE382N-14: High-Speed Computer Arithmetic I:
+  * Dr. Earl Swartzlander
+* EE382M: VLSI I
+  * Dr. Jacob A. Abraham
+* EE383V: Modern Optics
+  * Dr. Ray T. Chen 
+* EE380L-10 Data Mining 
+  * Dr. Edison Thomaz
 * EE382N-1: Computer Architecture
   * Dr. Dam Sunwoo
-* EE382N-14 High-Speed Computer Arithmetic I:
-  * Dr. Earl Swartzlander
-* EE382N-20: Computer Architecture: Parallism/Locality
-  * Dr. Mattan Erez
-* CS395T: Parallel Algorithm Scientific Computing
-  * Dr. George Biros
-* CS394R: Reinforcement Learning: Theory and Practice
-  * Dr. Peter Stone and Dr. Scott Niekum
-* EE382M: VLSI Physical Design Automation
-  * Dr. David Z. Pan
-* EE382V: Cross-layer Machine Learning Algorithm/Hardware Co-design
-  * Dr. Mattan Erez and Dr. Michael Orshansky
+* ME397: Intelligent Nano World 
+  * Dr. Yuebing Zheng
+* EE381V Unconventional Computation
+  * Dr. David Soloveichik 
+
 
