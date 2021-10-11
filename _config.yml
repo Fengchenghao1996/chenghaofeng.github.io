@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Chenghao Feng"
-  avatar           : "Chenghao_Feng.jpg"
+  avatar           : "CFeng.jpg"
   bio              : "PhD Student at <a href='https://www.cerc.utexas.edu/utda/'>UTDA, the University of Texas at Austin</a>"
   location         : "Austin, Texas"
   employer         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         :"https://www.linkedin.com/in/chenghao-feng-741a67207/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
