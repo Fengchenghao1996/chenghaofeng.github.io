@@ -45,6 +45,7 @@ Journal Papers
    * Nature communications 11 (1), 1-9, 2020.
 
 * 2019
+
   ### J5. [Analysis of microresonator-based logic gate for high-speed optical computing in integrated photonics](https://doi.org/10.1109/JSTQE.2019.2960949)
    * <a href="/publications/papers/Feng_JSTQE_19.pdf" style="color:#3793ae">preprint</a>
    * **Chenghao Feng**, Zhoufeng Ying, Zheng Zhao, Rohan Mital, David Z Pan, Ray T Chen
