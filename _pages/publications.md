@@ -9,8 +9,68 @@ author_profile: true
 {% if page.author and site.data.authors[page.author] %}
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
-You can also find my articles on <a href="{{author.googlescholar}}">my Google Scholar profile</a> and <a href="{{author.researchgate}}">my ResearchGate profile</a>.
+You can also find my articles on <a href="{{author.googlescholar}}">my Google Scholar profile</a>
 {: .notice--info}
+
+
+Journal Papers
+======
+* 2021
+
+  ### J10. [Toward High‐Speed and Energy‐Efficient Computing: A WDM‐Based Scalable On‐Chip Silicon Integrated Optical Comparator](https://doi.org/10.1109/TCAD.2020.2971531)
+   * <a href="/publications/papers/ONN_LPR2021_Feng.pdf" style="color:#3793ae">preprint</a>
+   * **Chenghao Feng**, Zhoufeng Ying, Zheng Zhao, Jiaqi Gu, David Z. Pan, and Ray T. Chen
+   * Laser & Photonics Reviews 15 (8), 2000275
+    
+* 2020
+
+  ### J9. [Wavelength-division-multiplexing (WDM)-based integrated electronic–photonic switching network (EPSN) for high-speed data processing and transportation](https://doi.org/10.1515/nanoph-2020-0356)
+   <!-- * <a href="/publications/papers/10.1515_nanoph-2020-0356 (1).pdf" style="color:#3793ae">preprint</a> -->
+   * **Chenghao Feng**, Zhoufeng Ying, Zheng Zhao, Jiaqi Gu, David Z. Pan and Ray T. Chen
+   * Nanophotonics 9 (15), 4579-4588, 2020
+
+  ### J8. [Sequential logic and pipelining in chip-based electronic-photonic digital computing](https://doi.org/10.1109/JPHOT.2020.3031641)
+   * <a href="/publications/papers/Zhoufeng2020_IPJ.pdf" style="color:#3793ae">preprint</a>
+   * Zhoufeng Ying, **Chenghao Feng**, Zheng Zhao, Jiaqi Gu, Richard Soref, David Z Pan, Ray T Chen
+   * IEEE Transaction on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jun., 2020.
+   
+  ### J7. [Towards Hardware-Efficient Optical Neural Networks: Beyond FFT Architecture via Joint Learnability](https://doi.org/10.1109/TCAD.2020.2971531)
+   * <a href="/publications/papers/ONN_TCAD2020_Gu.pdf" style="color:#3793ae">preprint</a>
+   * Jiaqi Gu, Zheng Zhao, **Chenghao Feng**, Zhoufeng Ying, Mingjie Liu, Ray T Chen, David Z Pan
+   * IEEE Transaction on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Sept., 2020.
+   
+  ### J6. [Electronic-photonic Arithmetic Logic Unit for High-speed Computing](https://doi.org/10.1038/s41467-020-16057-3)
+   * <a href="/publications/papers/Jay_NatureComm2020.pdf" style="color:#3793ae">preprint</a>
+   *  Zhoufeng Ying, **Chenghao Feng**, Zheng Zhao, Shounak Dhar, Hamed Dalir, Jiaqi Gu, Yue Cheng, Richard Soref, David Pan, and Ray Chen
+   * Nature communications 11 (1), 1-9, 2020.
+
+* 2019
+   ### J5. [Analysis of microresonator-based logic gate for high-speed optical computing in integrated photonics](https://doi.org/10.1109/JSTQE.2019.2960949)
+   * <a href="/publications/papers/Feng_JSTQE_19.pdf" style="color:#3793ae">preprint</a>
+   * **Chenghao Feng**, Zhoufeng Ying, Zheng Zhao, Rohan Mital, David Z Pan, Ray T Chen
+   * IEEE Journal of Selected Topics in Quantum Electronics 26 (2), 1-8, 2019.
+   
+  ### J4. [Integrated multi-operand electro-optic logic gates for optical computing](https://doi.org/10.1063/1.5126517)
+   * <a href="/publications/papers/Jay_APL_2019.pdf" style="color:#3793ae">preprint</a>
+   * Zhoufeng Ying, **Chenghao Feng**, Zheng Zhao, Richard Soref, David Pan, Ray T Chen
+   * Appl. Phys. Lett. 115, 171104 (2019).
+
+  ### J3. [Automated logic synthesis for electro-optic logic-based integrated optical computing](https://doi.org/10.1364/OE.26.028002)
+   * <a href="/publications/papers/Jay_oe-26-21-28002.pdf" style="color:#3793ae">preprint</a>
+   * Zhoufeng Ying, Zheng Zhao, **Chenghao Feng**, Rohan Mital, Shounak Dhar, David Z Pan, Richard Soref, Ray T Chen
+   * Optics express 26 (21), 28002-28012, 2019.
+
+* 2018
+  ### J2. [Efficient and accurate synthesis of complex Bragg grating waveguide in dispersive silicon structures](https://doi.org/10.1364/JOSAB.35.001921)
+   * <a href="/publications/papers/Feng_JOSAB_2018.pdf" style="color:#3793ae">preprint</a>
+   * **Chenghao Feng**, Richard Soref, Ray T. Chen, Xiaochuan Xu, and Wei Jiang
+   * JOSA B 35 (8), 1921-1927
+
+  ### J1. [Electro-optic ripple-carry adder in integrated silicon photonics for optical computing](https://doi.org/10.1109/JSTQE.2018.2836955)
+   * <a href="/publications/papers/Jay-2018_JSTQE_adder" style="color:#3793ae">preprint</a>
+   * Zhoufeng Ying, Shounak Dhar, Zheng Zhao, **Chenghao Feng**, Rohan Mital, Chi-Jui Chung, David Z Pan, Richard A Soref, Ray T Chen
+   * IEEE Journal of Selected Topics in Quantum Electronics 24 (6), 1-10.
+
 
 Conference Papers
 ======
@@ -29,7 +89,7 @@ Conference Papers
   ### C10. FLOPS: Efficient On-Chip Learning for Optical Neural Networks Through Stochastic Zeroth-Order Optimization
    * <a href="/publications/papers/ONN_DAC2020_Gu.pdf" style="color:#3793ae">preprint</a>
    * <a href="/publications/papers/ONN_DAC2020_Gu_poster.pdf" style="color:#3793ae">poster</a>
-   * **Jiaqi Gu**, Zheng Zhao, Chenghao Feng, Wuxi Li, Ray T. Chen and David Z. Pan
+   * Jiaqi Gu, Zheng Zhao, **Chenghao Feng**, Wuxi Li, Ray T. Chen and David Z. Pan
    * ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, Jul. 19-23, 2020. (**Best Paper Candidate**)
 
   ### C9. Million-channel parallelism Fourier-optic convolutional filter and neural network processor
@@ -87,38 +147,4 @@ Conference Papers
    * IEEE International Conference on ASIC (ASICON), Oct. 25-28, 2017.
 
 
-Journal Papers
-======
 
-* 2020
-
-  ### J6. WDM-based integrated electronic-photonic switching network for high-speed data processing and transportation
-   <!-- * <a href="/publications/papers/PD_TCAD2020_DREAMPlace_Gu.pdf" style="color:#3793ae">preprint</a> -->
-   * Chenghao Feng, Zhoufeng Ying, Zheng Zhao, **Jiaqi Gu**, David Z. Pan and Ray T. Chen
-   * Nanophotonics, Aug., 2020. (Accepted)
-
-  ### J5. [DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement](https://doi.org/10.1109/TCAD.2020.3003843)
-   * <a href="/publications/papers/PD_TCAD2020_DREAMPlace_Gu.pdf" style="color:#3793ae">preprint</a>
-   * Yibo Lin, Zixuan Jiang, **Jiaqi Gu**, Wuxi Li, Shounak Dhar, Haoxing Ren, Brucek Khailany and David Z. Pan
-   * IEEE Transaction on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Jun., 2020.
-
-  ### J4. [Electronic-photonic Arithmetic Logic Unit for High-speed Computing](https://doi.org/10.1038/s41467-020-16057-3)
-   * <a href="/publications/papers/ONN_NatureComm2020_Gu.pdf" style="color:#3793ae">preprint</a>
-   *  Zhoufeng Ying, Chenghao Feng, Zheng Zhao, Shounak Dhar, Hamed Dalir, **Jiaqi Gu**, Yue Cheng, Richard Soref, David Pan, and Ray Chen
-   * Nature Communications, Apr., 2020.
-
-  ### J3. [ABCDPlace: Accelerated Batch-based Concurrent Detailed Placement on Multi-threaded CPUs and GPUs](https://doi.org/10.1109/TCAD.2020.2971531)
-   * <a href="/publications/papers/PD_TCAD2020_Gu.pdf" style="color:#3793ae">preprint</a>
-   * Yibo Lin, Wuxi Li, **Jiaqi Gu**, Mark Ren, Brucek Khailany and David Z. Pan
-   * IEEE Transaction on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Feb., 2020.
-
-* 2019
-  ### J2. [High-resolution Image Reconstruction for Portable Ultrasound Imaging Devices](https://doi.org/10.1186/s13634-019-0649-x)
-   * <a href="/publications/papers/ML_EURASIP2019_Gu.pdf" style="color:#3793ae">preprint</a>
-   * Ruoyao Wang, Zhenghan Fang, **Jiaqi Gu**, Yi Guo, Shicong Zhou, Yuanyuan Wang, Cai Chang and Jinhua Yu
-   * EURASIP Journal on Advances in Signal Processing, Dec., 2019.
-
-  ### J1. [Deep Generative Adversarial Networks for Thin-section Infant MR Image Reconstruction](https://doi.org/10.1109/ACCESS.2019.2918926)
-   * <a href="/publications/papers/ML_IEEEACCESS2019_Gu.pdf" style="color:#3793ae">preprint</a>
-   * **Jiaqi Gu**, Zeju Li, Yuanyuan Wang, Haowei Yang, Zhongwei Qiao and Jinhua Yu
-   * IEEE Access, May, 2019.
