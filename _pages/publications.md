@@ -46,7 +46,7 @@ Journal Papers
 
 * 2019
 
-   ### J5. [Analysis of microresonator-based logic gate for high-speed optical computing in integrated photonics](https://doi.org/10.1109/JSTQE.2019.2960949)
+  ### J5. [Analysis of microresonator-based logic gate for high-speed optical computing in integrated photonics](https://doi.org/10.1109/JSTQE.2019.2960949)
    * <a href="/publications/papers/Feng_JSTQE_19.pdf" style="color:#3793ae">preprint</a>
    * **Chenghao Feng**, Zhoufeng Ying, Zheng Zhao, Rohan Mital, David Z Pan, Ray T Chen
    * IEEE Journal of Selected Topics in Quantum Electronics 26 (2), 1-8, 2019.
