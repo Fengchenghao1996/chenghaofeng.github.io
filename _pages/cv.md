@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF format EN](/files/Resume_CFeng.pdf){: .btn}
+[PDF format EN](/files/Resume__Chenghao_Feng_1101_.pdf){: .btn}
 
 ## Chenghao Feng
 {: .text-center}
