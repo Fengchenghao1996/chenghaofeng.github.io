@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student at the Department of Electrical and Computer Engineering, [University of Texas at Austin](https://www.utexas.edu/), working with Prof. [Ray T. Chen] (http://www.ece.utexas.edu/people/faculty/ray-chen) and [David Z. Pan](http://www.ece.utexas.edu/~dpan/).
+I am currently a Ph.D. student at the Department of Electrical and Computer Engineering, [University of Texas at Austin](https://www.utexas.edu/), working with Prof. [Ray T. Chen](http://www.ece.utexas.edu/people/faculty/ray-chen) and [David Z. Pan](http://www.ece.utexas.edu/~dpan/).
 Previously, I received the B.S. degree in Physics from [Nanjing University](https://www.nju.edu.cn/en/main.psp), in 2018.
 
 My current research interests include silicon photonics, optical computing, software/hardware co-design and testing for optical AI accelerators.
