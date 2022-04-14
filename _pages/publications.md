@@ -75,6 +75,20 @@ Journal Papers
 
 Conference Papers
 ======
+* 2022
+   ### C17. [Design and experimental demonstration of a hardware-efficient integrated optical neural network](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/PC12005/PC120050E/Design-and-experimental-demonstration-of-a-hardware-efficient-integrated-optical/10.1117/12.2610255.full)
+   * **Chenghao Feng**, Jiaqi Gu, Hanqing Zhu, David Pan, Ray T Chen
+   * Smart Photonic and Optoelectronic Integrated Circuits 2022, PC120050E	
+     
+   ### C16. [Optoelectronically interconnected hardware-efficient deep learning using silicon photonic chips](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/PC12007/PC1200702/Optoelectronically-interconnected-hardware-efficient-deep-learning-using-silicon-photonic-chips/10.1117/12.2616217.full?SSO=1)
+   * **Chenghao Feng**, Jiaqi Gu, Hanqing Zhu, David Pan, Ray T Chen
+   * Optical Interconnects XXII, PC1200702	 
+   
+   ### C15. [ELight: Enabling Efficient Photonic In-Memory Neurocomputing with Life Enhancement](https://ieeexplore.ieee.org/abstract/document/9712497)
+   * <a href="/publications/papers/ELight_Enabling_Efficient_Photonic_In-Memory_Neurocomputing_with_Life_Enhancement.pdf" style="color:#3793ae">preprint</a>
+   * Hanqing Zhu, Jiaqi Gu, **Chenghao Feng**, Mingjie Liu, Zixuan Jiang, Ray T. Chen, David Z. Pan
+   * ASPDAC 2022
+
 * 2021
  
   ### C14. [L2ight: Enabling On-Chip Learning for Optical Neural Networks via Efficient in-situ Subspace Optimization](https://arxiv.org/abs/2110.14807)
@@ -95,7 +109,7 @@ Conference Papers
   ### C11. [Scalable fast-Fourier-transform-based (FFT-based) integrated optical neural network for compact and energy-efficient deep learning](https://doi.org/10.1117/12.2578009)
    <!-- * <a href="" style="color:#3793ae">preprint</a> -->
    * **Chenghao Feng**, Jiaqi Gu, Zhoufeng Ying, Zheng Zhao, David Pan, Ray T. Chen
-   * IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Nov. 02-05, 2020. 
+   * Smart Photonic and Optoelectronic Integrated Circuits XXIII 11690, 116900I
 
   ### C10. [Wavelength-division-multiplexing-based electronic-photonic integrated circuits for high-performance data processing and transportation](https://doi.org/10.1117/12.2578016)
    * **Chenghao Feng**, Zhoufeng Ying, Zheng Zhao, Jiaqi Gu, David Pan, Ray T Chen
