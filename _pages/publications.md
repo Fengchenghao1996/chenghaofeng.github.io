@@ -76,6 +76,7 @@ Journal Papers
 Conference Papers
 ======
 * 2022
+
    ### C17. [Design and experimental demonstration of a hardware-efficient integrated optical neural network](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/PC12005/PC120050E/Design-and-experimental-demonstration-of-a-hardware-efficient-integrated-optical/10.1117/12.2610255.full)
    * **Chenghao Feng**, Jiaqi Gu, Hanqing Zhu, David Pan, Ray T Chen
    * Smart Photonic and Optoelectronic Integrated Circuits 2022, PC120050E	
