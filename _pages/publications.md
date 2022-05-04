@@ -77,11 +77,11 @@ Conference Papers
 ======
 * 2022
 
-     ### C17. [Design and experimental demonstration of a hardware-efficient integrated optical neural network](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/PC12005/PC120050E/Design-and-experimental-demonstration-of-a-hardware-efficient-integrated-optical/10.1117/12.2610255.full)
+   ### C17. [Design and experimental demonstration of a hardware-efficient integrated optical neural network](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/PC12005/PC120050E/Design-and-experimental-demonstration-of-a-hardware-efficient-integrated-optical/10.1117/12.2610255.full)
    * **Chenghao Feng**, Jiaqi Gu, Hanqing Zhu, David Pan, Ray T Chen
    * Smart Photonic and Optoelectronic Integrated Circuits 2022, PC120050E	
      
-     ### C16. [Optoelectronically interconnected hardware-efficient deep learning using silicon photonic chips](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/PC12007/PC1200702/Optoelectronically-interconnected-hardware-efficient-deep-learning-using-silicon-photonic-chips/10.1117/12.2616217.full?SSO=1)
+   ### C16. [Optoelectronically interconnected hardware-efficient deep learning using silicon photonic chips](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/PC12007/PC1200702/Optoelectronically-interconnected-hardware-efficient-deep-learning-using-silicon-photonic-chips/10.1117/12.2616217.full?SSO=1)
    * **Chenghao Feng**, Jiaqi Gu, Hanqing Zhu, David Pan, Ray T Chen
    * Optical Interconnects XXII, PC1200702	 
    
