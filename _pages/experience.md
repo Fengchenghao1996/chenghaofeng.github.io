@@ -12,7 +12,7 @@ author_profile: true
 * **Meta Platforms, USA, USA**
   * Hardware Engineer Intern, Meta infrastructure, Network Hardware Engineering team, May 2022 - Aug 2022, Menlo park, CA
   * Intern manager: Thang Pham. Hiring manager: James Stewart 
-  * **High-speed electrical host compliance test：** Worked on module streset input tests for 2x400G optical modules
+  * **High-speed electrical host compliance test：** Worked on module stressed input tests for 2x400G optical modules
   * **Sipho device design:** Built a fully-automated design flow to run FDTD/MODE simulations on Lumerical using Python APIs. Designed photonic devices using foundry process files.
   * **2x400G module HTX setting:** Worked on unifying host TX settings for 2x400G optical modules.   
 
