@@ -33,6 +33,8 @@ author_profile: true
 
 
 ## **Awards and Honors**
+  * **Winner** at Robert S. Hilbert Memorial Optical Design Competition, Jul 2022
+  * **Best Paper Award**, 25th ACM/IEEE Asian and South Pacific Design Automation Conference (ASP-DAC), Jan 2020
   * Provost’s International Graduate Excellence Fellowship. UT Austin, 2018-2021
   * Zheng Gang Scholarship. Nanjing University, 2017
   * Dalian Institute of Chemical Physics, Chinese Academy of Sciences’ Scholarship. 2016
