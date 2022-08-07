@@ -26,6 +26,10 @@ Education
 
 Work experience
 ------
+* Meta Platforms (May 2022 - Aug 2022)
+  * Hardware engineer intern
+  * Optical Technologies group, Menlo park, CA
+
 * University of Texas at Austin (Aug 2018 - Present)
   * University of Texas at Austin, Austin, TX
 
@@ -38,11 +42,19 @@ Skills
   * C
   * Lumerical solutions
   * Cadence Virtuoso
-  * Synopsys Optodesigner 
+  * Synopsys Optodesigner
+  
+* Experimental skills
+  * Die-level and transceiver-level test automaton skills
+  * Familiar with using lab equipment such as DCA, VNA, BERT, tunable laser, OSA and etc 
+  * PCB assembly skills;
+  * Basic skills of fabrication such as E-beam lithography and plasma-etching
+
 
 
 Awards and Honors
 ------
+* Best paper award. ASP-DAC, 2020
 * Provost’s International Graduate Excellence Fellowship. UT Austin, 2018-2021
 * Zheng Gang Scholarship. Nanjing University, 2017
 * Dalian Institute of Chemical Physics, Chinese Academy of Sciences’ Scholarship. 2016
@@ -70,6 +82,9 @@ Related Courses
 * ME397: Intelligent Nano World 
   * Dr. Yuebing Zheng
 * EE381V Unconventional Computation
-  * Dr. David Soloveichik 
+  * Dr. David Soloveichik
+* EE382M: Analog integrated circuit design
+  * Dr. Yaoyao Jia
+
 
 
