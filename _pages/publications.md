@@ -17,7 +17,7 @@ Journal Papers
 ======
 * 2021
 
-  ### J10. [Toward High‐Speed and Energy‐Efficient Computing: A WDM‐Based Scalable On‐Chip Silicon Integrated Optical Comparator](https://doi.org/10.1109/TCAD.2020.2971531)
+  ### J10. [Toward High‐Speed and Energy‐Efficient Computing: A WDM‐Based Scalable On‐Chip Silicon Integrated Optical Comparator](https://onlinelibrary.wiley.com/doi/full/10.1002/lpor.202000275)
    * <a href="/publications/papers/ONN_LPR2021_Feng.pdf" style="color:#3793ae">preprint</a>
    * **Chenghao Feng**, Zhoufeng Ying, Zheng Zhao, Jiaqi Gu, David Z. Pan, and Ray T. Chen
    * Laser & Photonics Reviews 15 (8), 2000275
