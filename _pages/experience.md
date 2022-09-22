@@ -10,7 +10,7 @@ author_profile: true
 
 ## **Work Experience**
 * **Meta Platforms, USA, USA**
-  * Hardware Engineer Intern, Meta infrastructure, Network Hardware Engineering team, May 2022 - Aug 2022, Menlo park, CA
+  * Hardware Engineer Intern, Meta infrastructure, Optical Technologies AI/HPC systems, May 2022 - Aug 2022, Menlo park, CA
   * **Intern manager:** Thang Pham. **Hiring manager:** James Stewart 
   * **High-speed electrical host compliance test：** Worked on module stressed input tests for 2x400G optical modules
   * **Sipho device design:** Built a fully-automated design flow to run FDTD/MODE simulations on Lumerical using Python APIs. Designed photonic devices using foundry process files.
@@ -27,7 +27,7 @@ author_profile: true
   
 
 
-* **Nanjing, Nanjing, China**
+* **Nanjing University, Nanjing, China**
   * Undergraduate research student, College of Engineering and Applied Sciences, Nanjing University, May 2016 - July 2018, Nanjing, China
   * **Arbitrary Complex Brag Grating Waveguide:** Developed and optimized codes to design the arbitrary complex Brag grating waveguide using inverse-design algorithms. Improved the simulation time complexity and scale down the size of the structure. Improved the simulation accuracy.
 
