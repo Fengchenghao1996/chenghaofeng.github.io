@@ -30,6 +30,7 @@ author_profile: true
 * **Nanjing University, Nanjing, China**
   * Undergraduate research student, College of Engineering and Applied Sciences, Nanjing University, May 2016 - July 2018, Nanjing, China
   * **Arbitrary Complex Brag Grating Waveguide:** Developed and optimized codes to design the arbitrary complex Brag grating waveguide using inverse-design algorithms. Improved the simulation time complexity and scale down the size of the structure. Improved the simulation accuracy.
+  * **Optical and Electrical Performance evaluation of a P-I-N-based optical Modulator :** Analyzed the impedance and modulation performance of a P-i-N-diode-based electrooptical modulator under high modulation frequency using Lumerical DEVICE and MODE.
 
 
 ## **Awards and Honors**
