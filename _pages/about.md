@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<mark style="background-color: #FFFFC0"> I am starting a new position as a senior silicon photonics design engineer at Alpine Optoelectronics. </mark>
+<mark style="background-color: #FFFFC0"> I am starting a new position as a senior silicon photonics design engineer at Alpine Optoelectronics in May 2023. </mark>
 
 I am a Ph.D. at the Department of Electrical and Computer Engineering, [University of Texas at Austin](https://www.utexas.edu/), working with Prof. [Ray T. Chen](http://www.ece.utexas.edu/people/faculty/ray-chen) and [David Z. Pan](http://www.ece.utexas.edu/~dpan/).
 Previously, I received a B.S. degree in Physics from [Nanjing University](https://www.nju.edu.cn/en/main.psp), in 2018.
