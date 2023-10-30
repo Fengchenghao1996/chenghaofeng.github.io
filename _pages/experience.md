@@ -9,7 +9,7 @@ author_profile: true
 
 
 ## **Work Experience**
-* **Alpone Optoelectronics, USA**
+* **Alpine Optoelectronics, USA**
   * Senior silicon photonics design engineer, Alpine Engineering and R&D department, May 2023 - Present, Fremont, CA
   * **Reporting to:** David Zheng, Tongqing Wang
   * **Sipho device design:** Model, design, and test photonic passive/active devices for next-generation optical interconnect products.
