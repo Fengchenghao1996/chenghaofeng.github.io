@@ -9,28 +9,32 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF format EN](/files/CV__Chenghao_Feng_021923_.pdf){: .btn}
+[PDF format EN](/files/CV__Chenghao_Feng_100223_.pdf){: .btn}
 
 ## Chenghao Feng
 {: .text-center}
-Ph.D. Student,  Department of Electrical and Computer Engineering
+Ph.D.,  Department of Electrical and Computer Engineering
 {: .text-center}
 University of Texas at Austin,  Austin, TX 78758
 {: .text-center}
 
 Education
 ------
-* Ph.D. in University of Texas at Austin, Texas, US, 2023 (expected)
+* Ph.D. in University of Texas at Austin, Texas, US, 2023
 * B.S. in Nanjing University, Nanjing, China, 2018
 
 
 Work experience
 ------
+* Alpine Optoelectronics (May 2023 - Present)
+  * Senior silicon photonics design engineer
+  * Alpine Engineering and R&D department, Fremont, CA
+
 * Meta Platforms (May 2022 - Aug 2022)
   * Hardware engineer intern
   * Optical Technologies group, Menlo park, CA
 
-* University of Texas at Austin (Aug 2018 - Present)
+* University of Texas at Austin (Aug 2018 - May 2023)
   * University of Texas at Austin, Austin, TX
 
 
@@ -41,6 +45,9 @@ Skills
   * Matlab
   * C
   * Lumerical solutions
+  * Ansys HFSS
+  * Luceda ipkiss3
+  * Gdsfactory
   * Cadence Virtuoso
   * Synopsys Optodesigner
   
