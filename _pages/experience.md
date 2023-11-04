@@ -25,7 +25,7 @@ author_profile: true
 
 ## **Research Experience**
 * **University of Texas at Austin, USA**
-  * Research Assistant, ECE department, University of Texas at Austin, Sept 2018 - Present, Austin, TX
+  * Research Assistant, ECE department, University of Texas at Austin, Sept 2018 - May 2023, Austin, TX
   * **Photonic neural chip：** Worked on photonic neural chip tape-out for novel optical neural network(ONN) architectures using Advanced Micro Foundry (AMF); collaborated on the full-stack schematic design, layout, validation, tape-out of photonic neural chips using Lumerical Interconnect, Synopsys optodesigner, and PyTorch. Testing the performance of the photonic neural chip.
   * **Electronic-photonic digital computing chip：** Worked on electronic-photonic digital computing chip tape-out for photonic logic functional units using AIM photonics; worked on the design, layout, validation, tape-out, performance evaluation, and high-speed measurement of the digital computing circuits. Proposed and experimentally demonstrated the photonic version of comparator, multiplexer/demultiplexer and decoder.
   * **Electronic-photonic digital full adder:** Collaborated on the architecture design, high-speed measurement, and performance evaluation of an electronic-photonic full adder fabricated by AIM photonics. Collaborated on proposing the idea of electronic-photonic arithmetic logic unit.
