@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "CHENGHAO FENG"
 title_separator          : "-"
 name                     : &name "Chenghao Feng"
-description              : &description "PhD Student at The University of Texas at Austin"
+description              : &description "Ph.D. at The University of Texas at Austin"
 url                      : https://fengchenghao1996.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fengchenghao1996.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Chenghao Feng"
   avatar           : "CFeng.jpg"
-  bio              : "PhD Student at <a href='https://www.cerc.utexas.edu/utda/'>UTDA, the University of Texas at Austin</a>"
+  bio              : "Ph.D. at <a href='https://www.cerc.utexas.edu/utda/'>UTDA, the University of Texas at Austin</a>"
   location         : "Austin, Texas"
   employer         :
   pubmed           :
